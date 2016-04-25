@@ -1,0 +1,17 @@
+body {
+    background-color: coral
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 50;
+}
+
+h2 {
+    color: hotpink;
+}
+
+p {
+    color: greenyellow;
+    margin-left: 20px
+}
